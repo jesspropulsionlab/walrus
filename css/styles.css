@@ -1,0 +1,30 @@
+img {
+  float: left;
+  height: 300px;
+  width: auto;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color: plum;
+}
+
+.fish-type {
+  color: green;
+}
